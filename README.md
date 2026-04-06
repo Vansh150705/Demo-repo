@@ -1,2 +1,2 @@
-Random Repo
+Random Repository
 
